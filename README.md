@@ -4,6 +4,7 @@ A script to dynamically fetch conda packages/containers from bioconda/biocontain
 This is a pretty barebones implementation that can be improved a lot if there is interest for it (maybe even make it a plugin, who knows :wink:)
 
 WARNING: This script currently only works when you have an internet connection. I could look into adding offline support if there is interest in this.
+
 WARNING: This script currently only works with `conda`, `docker` and `singularity` containers.
 
 ## Usage
